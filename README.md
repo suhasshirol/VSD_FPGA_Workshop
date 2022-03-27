@@ -11,3 +11,5 @@ Post Implementation results of 4 bit counter with constraints
 SDC File for the timing analysis
 ![Day1_Utilization report](https://user-images.githubusercontent.com/66528639/160282891-f16e457c-5e47-42ae-bdf5-ad9ab5997732.jpg)
 Utilization report of 4 bit counter wuth respect to area and power
+Vivado / Open FPGA
+Day 2
