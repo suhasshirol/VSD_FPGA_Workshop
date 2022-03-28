@@ -94,9 +94,19 @@ OpenFPGA Flow Diagram
 <br />Skywater OpenSource FPGA (SOFA): RVMyth on SOFA
 <br />Area, timing and post implementation
 <br />
-
-
-
-
-
+<br />
+![Day_5_Core_run](https://user-images.githubusercontent.com/66528639/160334657-38487d72-22fd-4781-af74-b8177aa55962.jpg)
+<br />Setting Environment of SOFA RVMyth core 
+<br />![SDC_analysis](https://user-images.githubusercontent.com/66528639/160335231-950243c0-af7e-452e-b6c2-b360bcc06d18.jpg)
+<br />SDC Analysis of SOFA RVMyth core 
+<br />![Circuit_Statsistics](https://user-images.githubusercontent.com/66528639/160335622-29955663-1c49-4477-a376-8f310a2f641c.jpg)
+<br />Circuit Stastistics of SOFA RVMyth core 
+<br />![Timing Constraints](https://user-images.githubusercontent.com/66528639/160335968-72c9d6b3-072a-4129-99ea-6826b6ebb826.jpg)
+<br />Timing Constraints of SOFA RVMyth core
+<br />![Timing Analysis](https://user-images.githubusercontent.com/66528639/160336473-6b98f581-af40-46d8-9eae-926a8ff58a76.jpg)
+<br />Setup and Hold Analysis of SOFA RVMyth core
+<br />![Netlist](https://user-images.githubusercontent.com/66528639/160336924-b394afb8-551a-4db1-9964-b1621ea72a91.jpg)
+<br />Netlist of SOFA RVMyth core
+<br />![Post_Simulation](https://user-images.githubusercontent.com/66528639/160337214-b8ac16bb-da18-4bdb-9f24-98758d66abab.jpg)
+<br />Post Simulation of SOFA RVMyth core
 
