@@ -24,6 +24,7 @@ Vivado / Open FPGA
 <br />Day 2
 <br />OpenFPGA Introduction
 <br />VTR Flow Process
+<br />![FPGA_Fabric](https://user-images.githubusercontent.com/66528639/160341232-86438df9-f5b8-4628-af09-462c1fdb3497.jpg)
 <br />Demos
 <br />VPR flow: tseng on Earch
 <br />VTR flow: 4 bit counter on Earch
