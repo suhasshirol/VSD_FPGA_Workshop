@@ -2,8 +2,14 @@
 Vivado / Open FPGA
 <br />Day 1
 <br />FPGA Introduction
+<br />FPGA Design Flow
+<br />![Flow](https://user-images.githubusercontent.com/66528639/160340462-c8fb2332-94ba-4d32-a058-ab0c17c4a76a.jpg)
 <br />Design of a 4-bit counter through Vivado on Basys3 FPGA
+<br />![Basys3 board](https://user-images.githubusercontent.com/66528639/160339995-d4d26a73-4d6c-455c-b6c7-0a32253f30b8.jpg)
+<br />Basys 3 Board for Implementation of Design
 <br />Use of Virtual Input/Output (VIO)
+<br />Flow of VIO
+<br />![VIO](https://user-images.githubusercontent.com/66528639/160340698-ad977e99-27ad-488d-a6f2-9c5cc0c70a63.jpg)
 <br />![Day1_Simulations](https://user-images.githubusercontent.com/66528639/160282778-d771cc05-7530-4151-8c40-32c98df31747.jpg)
 <br />Simulation results of 4 bit counter on vivado Basys FPGA
 <br />![Day1_Timing analysis](https://user-images.githubusercontent.com/66528639/160282830-a1e8969f-2f33-4026-93f8-87be6c7b3495.jpg)
