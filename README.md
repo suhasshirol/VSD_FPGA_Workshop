@@ -50,6 +50,8 @@ OpenFPGA Flow Diagram
 <br />Results for positive slack of design @ 10MHz
 <br />![Day2_VTR_Place and route](https://user-images.githubusercontent.com/66528639/160283910-fc6a2cc5-97d4-4425-b91f-e9d3fd203228.jpg)
 <br /> VTR Place and Route for the design
+<br />VTR Flow
+<br />![VTR_Flow](https://user-images.githubusercontent.com/66528639/160341662-95acd3d2-b5e0-41b1-8157-7d6687547237.jpg)
 <br />![Day2_VTR_analysis](https://user-images.githubusercontent.com/66528639/160284078-da99ddbc-af94-4943-aacb-a2b104ea86db.jpg)
 <br />Analysis result of VTR 
 <br />![Day2_Post_results](https://user-images.githubusercontent.com/66528639/160284333-aedcef95-6f1e-40eb-ab42-dc9d00e6a61f.jpg)
